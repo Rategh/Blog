@@ -10,7 +10,7 @@ Software Engineer | Data Enthusiast | Linux Guru
 I have a Bachelor’s degree in Software Engineering and a Master’s in Data Mining, with a focus on data privacy and preservation. Over the past decade, I’ve honed my skills in programming, server management, and network architecture, making technology both my passion and career.
 
 <div>
-  <img src="/src/assets/images/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/images/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
 For the last ten years, I’ve used Arch Linux and macOS as my primary operating systems, bringing the best of both worlds into my daily routine as a software developer. I have extensive experience setting up and managing Linux-based servers, from small personal projects to large-scale environments.
